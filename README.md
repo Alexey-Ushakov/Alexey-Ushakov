@@ -5,7 +5,7 @@ Backend-разработчик Python с опытом более 2 лет. Сп�
 - 🌍 Тольятти, Россия (готов к удалёнке или переезду)
 - 📧 alexeyushakov42@gmail.com
 - 💬 Telegram: [@The_unname](https://t.me/The_unname)
-- 🔗 Резюме: [HH.ru или ссылка на PDF, если есть]
+- 🔗 Резюме: [HH.ru](https://samara.hh.ru/resume/81607b89ff09ba6e390039ed1f335433636c76)
 
 ### Технологии и инструменты 🛠️
 
